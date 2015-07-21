@@ -2,6 +2,6 @@
 
 ### [Users](https://github.com/xternprojects/cultural-trail-documentation/wiki/Users)
 
-### [Routes](https://github.com/xternprojects/cultural-trail-documentation/wiki/Routes)
+### [Routes](https://github.com/xternprojects/cultural-trail-backend/wiki/Routes)
 
 ### [Mockups](https://github.com/xternprojects/cultural-trail-documentation/tree/master/mockups)
